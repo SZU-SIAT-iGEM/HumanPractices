@@ -111,8 +111,26 @@ This is the finding we are most grateful for, because it is the one we could not
 
 Education does not stop at the school gate. Team member Le Chen took Friskoli into a science class at Shenzhen University, for third-year marine science majors — students who already know their microbiology and oceanography, and who ask sharper questions than a school classroom ever will.
 
+
 For this audience the storyline stayed the same, but the depth moved from "what is chemotaxis" to where our design actually meets their discipline: mass transfer at surfaces, mixing without gravity, and what a microbial bioreactor has to prove before it can leave the bench. `[TBD: date, class size, and the specific topics Le Chen covered — ask the team before publishing]`
 
+---
+
+## The Education DBTL
+
+We ran our education work the way we run our bench work: as a Design–Build–Test–Learn cycle.
+
+![Education DBTL](education_dbtl.png)
+
+**Design.** Three things were fixed before anyone visited a classroom: one storyline (Lili's 2049 mission) that could be told at three depths for three audiences; a replacement organism for the experiment we could not safely run, chosen so that phototaxis would carry the logic of chemotaxis into a dish; and a two-sided paired questionnaire with anonymous codes, so that we could measure change instead of collecting praise.
+
+**Build.** The story class and mini-game went to Lufeng Neihu Town Central Primary School. The brine shrimp assay, the chemotaxis board game and the paired survey went to Shenzhen Experimental School (Junior High Section). And Le Chen carried Friskoli across the city to a class of third-year marine science majors at Shenzhen University.
+
+**Test.** The questionnaire did its job: 32 of 42 sheets came back paired. Enjoyment averaged 4.35 out of 5 with no rating below 3, interest in learning more about synthetic biology rose from 66.7% to 77.4%, and the hands-on block was named most helpful by 77.4% of students — three times the share for our lecture. But the test also caught what the smiles in the classroom hid: on the mechanism item, correct answers fell from 36.7% to 16.7%, and 56.7% of students gave the bacterium the shrimp's way of finding food.
+
+**Learn.** Three changes are already designed into the next round: a slide that dismantles the shrimp analogy explicitly (organs turn directly; bacteria remember and change how often they tumble); a shorter post-test with diagram-based items, because skipping rose to about 20% on the longest questions; and consistent option positions for matched items. The analogy check also goes into the primary-school deck — if junior high students imported the shrimp's mechanism, younger children will import it faster.
+
+---
 
 ## What We Carry Forward
 
